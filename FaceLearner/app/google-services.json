@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381908354813",
+    "firebase_url": "https://facelearner-cd788.firebaseio.com",
+    "project_id": "facelearner-cd788",
+    "storage_bucket": "facelearner-cd788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381908354813:android:35bd6fd789821516702094",
+        "android_client_info": {
+          "package_name": "com.prince.facelearner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381908354813-54dcr57ldao2jcq0jfgav3r9dqfsrbjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3g_vl9LAdB0AP6cIFewW3wnFDGJltTA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381908354813-54dcr57ldao2jcq0jfgav3r9dqfsrbjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
